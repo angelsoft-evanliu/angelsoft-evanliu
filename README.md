@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kato Chojiro</h1>  
+<h1 align="center">Hi 👋, I'm Tequdoa Perry</h1>  
 <h2 align="center">Passionate Full Stack Developer</h2>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katochojiro&label=Profile%20views&color=0e75b6&style=flat" alt="katochojiro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tequdoaperry&label=Profile%20views&color=0e75b6&style=flat" alt="tequdoaperry" /> </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katochojiro" alt="katochojiro" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tequdoaperry" alt="tequdoaperry" /></a> </p>  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -17,6 +17,6 @@
 
 
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=katochojiro&show_icons=true&locale=en&layout=compact"  alt="katochojiro" />
-<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=katochojiro&show_icons=true&locale=en"  alt="katochojiro" />
+<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tequdoaperry&show_icons=true&locale=en&layout=compact"  alt="tequdoaperry" />
+<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=tequdoaperry&show_icons=true&locale=en"  alt="tequdoaperry" />
 </div>
