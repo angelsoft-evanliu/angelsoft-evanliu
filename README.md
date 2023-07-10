@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Artem Hrushevskyi</h1>  
+<h1 align="center">Hi 👋, I'm Illia Levytskyi</h1>  
 <h2 align="center">Passionate Full Stack Developer</h2>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artemhrushevskyi&label=Profile%20views&color=0e75b6&style=flat" alt="artemhrushevskyi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=illia-levytskyi&label=Profile%20views&color=0e75b6&style=flat" alt="Illia Levytskyi" /> </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artemhrushevskyi" alt="artemhrushevskyi" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=illia-levytskyi" alt="Illia Levytskyi" /></a> </p>  
   
   
 <h3 align="left">Languages and Tools:</h3>  
@@ -11,6 +11,6 @@
 
 
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=artemhrushevskyi&show_icons=true&locale=en&layout=compact"  alt="artemhrushevskyi" />
-<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=artemhrushevskyi&show_icons=true&locale=en"  alt="artemhrushevskyi" />
+<img  align="center" style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=illia-levytskyi&show_icons=true&locale=en&layout=compact"  alt="Illia Levytskyi" />
+<img  align="center" style="width: 52%;" src="https://github-readme-stats.vercel.app/api?username=illia-levytskyi&show_icons=true&locale=en"  alt="Illia Levytskyi" />
 </div>
